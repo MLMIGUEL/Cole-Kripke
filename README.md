@@ -4,6 +4,7 @@ The code simulates realistic actigraphy data (activity counts over time) for 10 
 
 
 References:
+
 Cole, R. J., Kripke, D. F., Gruen, W., Mullaney, D. J., & Gillin, J. C. (1992). 
 Automatic Sleep/Wake Identification From Wrist Activity. Sleep, 15(5), 461–469. http://doi.org/10.1093/sleep/15.5.461
 
